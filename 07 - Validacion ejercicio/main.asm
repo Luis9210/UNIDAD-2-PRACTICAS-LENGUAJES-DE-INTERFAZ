@@ -12,7 +12,7 @@ INCLUDE Irvine32.inc
 	codigo BYTE 8 DUP(0)
 	msgError BYTE "CADENA INVALIDA, INTENTE DE NUEVO", 0
 	msgInicial BYTE "Ingrese una cadena de longitud 7, 3 letras mayusculas seguidas de 1 guion y luego 3 numeros", 0
-	msgValido BYTE "SU CADENA ES VALIDA"
+	msgValido BYTE "SU CADENA ES VALIDA", 0
 .code 
 main PROC
 ciclar:								;Etiqueta para volver a pedir una cadena
