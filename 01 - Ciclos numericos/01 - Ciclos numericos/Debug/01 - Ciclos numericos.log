@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (01 - Ciclos numericos.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Assembling main.asm...
+  01 - Ciclos numericos.vcxproj -> C:\Users\luism\source\repos\01 - Ciclos numericos\Debug\01 - Ciclos numericos.exe

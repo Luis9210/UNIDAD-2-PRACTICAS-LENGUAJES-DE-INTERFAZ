@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luism\\source\\repos\\04 - Comparacion Mayor, menor, igual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA4E0FC-6F8D-4342-9A13-CC9A580DD781}|04 - Comparacion Mayor, menor, igual.vcxproj|C:\\Users\\luism\\source\\repos\\04 - Comparacion Mayor, menor, igual\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3DA4E0FC-6F8D-4342-9A13-CC9A580DD781}|04 - Comparacion Mayor, menor, igual.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\04 - Comparacion Mayor, menor, igual\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\04 - Comparacion Mayor, menor, igual\\main.asm",
+              "RelativeToolTip": "main.asm",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-28T16:34:10.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
